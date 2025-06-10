@@ -1,4 +1,4 @@
-<h1 align="center">Luan Rocha – Design Editorial, Automação e Visualização de Dados</h1>
+<h1 align="center">Luan Rocha – Design Editorial, Automação e Análise de Dados</h1>
 
 <p align="center">
   🎨 Designer Gráfico | 💻 Estudante de Engenharia de Software<br>
