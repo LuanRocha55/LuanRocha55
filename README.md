@@ -1,4 +1,3 @@
-
 <h1 align="center">Luan Rocha – Design Editorial, Automação e Visualização de Dados</h1>
 
 <p align="center">
@@ -34,13 +33,15 @@ Tenho experiência sólida com o pacote Adobe, especialmente em projetos de **eB
 
 ## 🚀 Projetos em Destaque
 
-| Projeto                        | Descrição                                                                 | Tecnologias        |
-|-------------------------------|---------------------------------------------------------------------------|--------------------|
-| Bot de Criação de Salas Moodle | Automatiza a criação de disciplinas e salas virtuais no Moodle via planilhas | Python, Pandas     |
-| Controle de Ponto Automatizado | Geração de relatórios com validação de justificativas                    | Python, Excel      |
-| Power BI para EAD              | Painel de dados educacionais com integração de planilhas                  | Power BI, Excel    |
+| Projeto                          | Descrição                                                                                   | Tecnologias              |
+|----------------------------------|---------------------------------------------------------------------------------------------|--------------------------|
+| Sistema Linear 3x3               | Solução interativa usando Regra de Cramer para sistemas lineares 3x3                        | Python, HTML, Tailwind   |
+| Script InDesign para Word        | Automação de importação de arquivos Word em projetos editoriais do InDesign                 | JavaScript (ExtendScript)|
+| Título com Parágrafo-Ícone      | Script para aplicar estilos personalizados automaticamente no InDesign                     | JavaScript (ExtendScript)|
+| Calculadora Regra de Cramer (Web)| Interface web para cálculo de sistemas lineares com visual responsivo                       | HTML, Tailwind, JavaScript|
+| Projetos de Estudos              | Scripts e exercícios voltados ao aprendizado de Python, automação e lógica de programação   | Python                   |
 
-> Todos os projetos são voltados à **eficiência institucional, automação de rotinas** e integração com ambientes de aprendizagem.
+> Os projetos destacam a integração entre **design gráfico, automação editorial** e **desenvolvimento de soluções técnicas** para o contexto educacional e visual.
 
 ---
 
