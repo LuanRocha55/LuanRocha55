@@ -1,4 +1,4 @@
-<h1 align="center">Luan Rocha – Design Editorial, Automação e Visualização de Dados</h1>
+<h1 align="center">Luan Rocha – Design, Automação e Análise de Dados</h1>
 
 <p align="center">
   🎨 Designer Gráfico | 💻 Estudante de Engenharia de Software<br>
@@ -9,50 +9,27 @@
 
 ## 🧠 Sobre mim
 
-Sou formado em **Design Gráfico** pela Estácio - CE e atualmente curso **Engenharia de Software** na UniAteneu, onde estou finalizando o segundo semestre. Atuo profissionalmente como **designer gráfico editorial** na mesma instituição, contribuindo diretamente para a Educação a Distância (EAD).
-
-Tenho experiência sólida com o pacote Adobe, especialmente em projetos de **eBooks, PDFs interativos** e peças visuais para ambientes virtuais de aprendizagem. Recentemente, venho ampliando meu repertório com **tecnologias de programação e dados**, buscando unir design, automação e desenvolvimento web.
-
----
-
-## 🛠️ Ferramentas e Tecnologias
-
-### Design & Produção Gráfica
-- Adobe Photoshop
-- Adobe Illustrator
-- Adobe InDesign
-- Adobe Acrobat Pro
-
-### Desenvolvimento & Automação
-- `Python` (scripts para automação)
-- `JavaScript` (iniciando projetos web)
-- `Power BI` (visualização de dados com Excel)
-- `Git & GitHub` (versionamento e portfólio técnico)
+Sou formado em **Design Gráfico** pela Estácio - CE e atualmente curso **Engenharia de Software** na UniAteneu. Atuo como **designer editorial** na área de Educação a Distância (EAD), com foco em automação, formatação profissional de conteúdos e criação de soluções visuais e interativas.
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-| Projeto                          | Descrição                                                                                   | Tecnologias              |
-|----------------------------------|---------------------------------------------------------------------------------------------|--------------------------|
-| Sistema Linear 3x3               | Solução interativa usando Regra de Cramer para sistemas lineares 3x3                        | Python, HTML, Tailwind   |
-| Script InDesign para Word        | Automação de importação de arquivos Word em projetos editoriais do InDesign                 | JavaScript (ExtendScript)|
-| Título com Parágrafo-Ícone      | Script para aplicar estilos personalizados automaticamente no InDesign                     | JavaScript (ExtendScript)|
-| Calculadora Regra de Cramer (Web)| Interface web para cálculo de sistemas lineares com visual responsivo                       | HTML, Tailwind, JavaScript|
-| Projetos de Estudos              | Scripts e exercícios voltados ao aprendizado de Python, automação e lógica de programação   | Python                   |
-
-> Os projetos destacam a integração entre **design gráfico, automação editorial** e **desenvolvimento de soluções técnicas** para o contexto educacional e visual.
+| Projeto                          | Descrição rápida                                                                 | Tecnologias principais           |
+|----------------------------------|----------------------------------------------------------------------------------|----------------------------------|
+| 📘 InDesign Script               | Automatiza estilos e formatação ao importar documentos do Word para o InDesign  | ExtendScript (JavaScript), InDesign |
+| 📐 Sistema Linear 3x3            | Resolve sistemas com Regra de Sarrus e Cramer (CLI + versão Web interativa)     | Python, HTML, Tailwind           |
+| 🛫 AirSeat                        | Simula reserva de assentos em aviões com restrições por classe                  | C++                              |
+| 📅 Calendário Acadêmico          | Interface interativa com eventos mensais e cores explicativas                   | HTML, Tailwind, JavaScript       |
 
 ---
 
-## 📘 Em constante aprendizado
+## 🧠 Em constante aprendizado
 
-Atualmente estou focado em:
-
-- Fundamentos de programação com Python e JavaScript
-- Automação de tarefas com planilhas Excel
-- Visualização e análise de dados com Power BI
-- Conceitos básicos de banco de dados
+- Desenvolvimento de scripts para automação editorial
+- Aplicações web com HTML, CSS, JavaScript e Tailwind
+- Fundamentos de lógica de programação e estruturas de dados
+- Visualização de dados com Power BI
 
 ---
 
